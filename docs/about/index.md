@@ -9,7 +9,7 @@ lastUpdated: false
 <img width=100% src="../public/img/svg/about-repos-header.svg" alt="头部图" />
 
 <div align="center">
-    📝 <strong>查尔斯的个人技术知识库，记录 & 分享个人碎片化、结构化、体系化的技术知识内容。</strong>
+    📝 <strong>Noah技术博客 | 一个属于技术爱好者的知识分享平台，致力于分享编程技巧和实用的开发经验。</strong>
 </div>
 
 
