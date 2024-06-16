@@ -27,15 +27,15 @@
   let gitalk;
   if (type.value && type.value == 'gitalk') {
     gitalk = new Gitalk({
-      clientID: '1de126ce1fbdbe049709',
-      clientSecret: '035fe49874a43e5cefc28a99b7e40b1925319c62',
+      clientID: 'Ov23liUmDVmnuiLiGAjd',
+      clientSecret: 'a6691585144ba60646b223339ed568d5b7e5e118',
       repo: 'Noahtech',
       owner: 'Noah2Y',
       admin: ['Noah2Y'],
       id: md5(page.value.relativePath),
       language: 'zh-CN',
       distractionFreeMode: false,
-      // 默认: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+      // proxy: 'https://cfproxy.1621499819.workers.dev/https://github.com/login/oauth/access_token'
       // proxy: 'https://vercel.charles7c.top/github_access_token',
     });
   }
