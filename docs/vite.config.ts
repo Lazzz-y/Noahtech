@@ -13,12 +13,12 @@ export default defineConfig({
       include: [/\.vue$/, /\.vue\?vue/, /\.md$/],
       resolvers: [ArcoResolver({ sideEffect: true, resolveIcons: true })]
     }),
-    // GitChangelog({
-    //   repoURL: () => "https://github.com/Noah2Y/Noahtech",
-    //
-    // }),
-    // GitChangelogMarkdownSection({
-    // }),
+    GitChangelog({
+      repoURL: () => "https://github.com/Noah2Y/Noahtech",
+
+    }),
+    GitChangelogMarkdownSection({
+    }),
   ],
   ssr: { noExternal: ['@arco-design/web-vue'] },
   resolve: {

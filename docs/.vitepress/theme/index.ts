@@ -28,6 +28,6 @@ export default {
     }
     // register your custom global components
     // ctx.app.component('MyGlobalComponent' /* ... */)
-    // ctx.app.use(NolebaseGitChangelogPlugin)
+    ctx.app.use(NolebaseGitChangelogPlugin)
   }
 }
