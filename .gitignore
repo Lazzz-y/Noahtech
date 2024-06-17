@@ -17,6 +17,7 @@ coverage/
 # IDE setting files
 .idea
 .vscode
+.obsidian
 
 # Temp files
 cache/

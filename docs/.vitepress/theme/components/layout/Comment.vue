@@ -35,8 +35,6 @@
       id: md5(page.value.relativePath),
       language: 'zh-CN',
       distractionFreeMode: false,
-      // proxy: 'https://cfproxy.1621499819.workers.dev/https://github.com/login/oauth/access_token'
-      // proxy: 'https://vercel.charles7c.top/github_access_token',
     });
   }
 

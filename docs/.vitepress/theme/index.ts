@@ -5,15 +5,6 @@ import './styles/custom.css';
 import axios from 'axios';
 import api from './api/index';
 
-/**
- * Git提交日志
- */
-import {
-  NolebaseGitChangelogPlugin
-} from '@nolebase/vitepress-plugin-git-changelog/client'
-
-import '@nolebase/vitepress-plugin-git-changelog/client/style.css'
-
 export default {
   ...DefaultTheme,
   Layout: MyLayout,
@@ -28,6 +19,5 @@ export default {
     }
     // register your custom global components
     // ctx.app.component('MyGlobalComponent' /* ... */)
-    ctx.app.use(NolebaseGitChangelogPlugin)
   }
 }

@@ -1,6 +1,5 @@
-﻿---
+---
 layout: home
-
 title: Noah2Y
 titleTemplate: Java 基础 - OOP
 
@@ -14,10 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: '#'
-    - theme: alt
-      text: 在 GitHub 查看
-      link: '#'
+      link: /courses/java/basic/01-Java基础入门/01-Java基础数据类型
 
 features:
   - title: Java 基础 - Basic
