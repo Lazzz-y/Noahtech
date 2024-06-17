@@ -4,7 +4,7 @@ export const nav: DefaultTheme.Config['nav'] = [
   {
     text: 'Java',
     items: [
-      { text: 'Java 基础', link: '#', activeMatch: '#' },
+      { text: 'Java 基础', link: '/courses/java/basic/01-Java基础入门/01-Java基础数据类型', activeMatch: '/courses/java/basic' },
       { text: '面向对象', link: '#', activeMatch: '#' },
       { text: '集合', link: '#', activeMatch: '#' },
       { text: 'IO', link: '#', activeMatch: '#' },

@@ -20,7 +20,7 @@ features:
     details: 本系列主要对 Java 基础知识进行详解与拓展。
     icon:
       src: /img/svg/java.svg
-    link: '#'
+    link: /courses/java/basic/01-Java基础入门/01-Java基础数据类型
     
   - title: Java 基础 - OOP
     details: 本系列主要对 Java 面向对象(OOP) 知识进行详解与拓展。
