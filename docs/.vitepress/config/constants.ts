@@ -1,4 +1,4 @@
-const site = 'https://noah2y.github.io/Noahtech/';
+const site = 'https://blog.noah2y.cn';
 
 export const metaData = {
   lang: 'zh-CN',
