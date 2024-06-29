@@ -10,7 +10,15 @@ export const nav: DefaultTheme.Config['nav'] = [
       { text: 'IO', link: '#', activeMatch: '#' },
       { text: 'JVM', link: '#', activeMatch: '#' }
     ],
-    activeMatch: '/courses/'
+    activeMatch: '/courses/java'
+  },
+  {
+    text: 'MySQL',
+    items: [
+      { text: 'MySQL 基础', link: '/courses/mysql/01-MySQL基础', activeMatch: '/courses/mysql/01-MySQL基础' },
+      { text: 'MySQL 进阶', link: '/courses/mysql/02-MySQL进阶', activeMatch: '/courses/mysql/02-MySQL进阶' },
+    ],
+    activeMatch: '/courses/mysql'
   },
   {
     text: '标签',
