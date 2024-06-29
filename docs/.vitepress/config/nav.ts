@@ -16,7 +16,8 @@ export const nav: DefaultTheme.Config['nav'] = [
     text: 'MySQL',
     items: [
       { text: 'MySQL 基础', link: '/courses/mysql/01-MySQL基础', activeMatch: '/courses/mysql/01-MySQL基础' },
-      { text: 'MySQL 进阶', link: '/courses/mysql/02-MySQL进阶/01-事务特点及原理', activeMatch: '/courses/mysql/02-MySQL进阶/01-事务特点及原理' },
+      { text: 'MySQL 进阶', link: '/courses/mysql/02-MySQL进阶/01-事务特点及原理' +
+            '', activeMatch: '/courses/mysql/02-MySQL进阶/01-事务特点及原理' },
     ],
     activeMatch: '/courses/mysql'
   },
