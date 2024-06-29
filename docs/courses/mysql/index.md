@@ -13,18 +13,18 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /courses/mysql/02-MySQL进阶/事务特点及原理
+      link: /courses/mysql/02-MySQL进阶/01-事务特点及原理
 
 features:
   - title: MySQL 基础
     details: 本系列主要对 进阶 基础知识进行详解与拓展。
     icon:
       src: /img/svg/database.svg
-    link: /courses/mysql/02-MySQL进阶/事务特点及原理
+    link: "/courses/mysql/02-MySQL进阶/事务特点及原理"
     
   - title: MySQL 进阶
     details: 本系列主要对 MySQL 深入了解
     icon:
       src: /img/svg/database.svg
-    link: '#'
+    link: /courses/mysql/02-MySQL进阶/事务特点及原理
 ---
