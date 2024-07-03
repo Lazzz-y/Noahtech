@@ -15,9 +15,6 @@ hero:
     - theme: brand
       text: 快速开始
       link: '#'
-    - theme: alt
-      text: 在 GitHub 查看
-      link: '#'
 
 features:
   - title: Java 进阶 - 集合框架
@@ -36,5 +33,5 @@ features:
     details: 本系列主要对 Java 虚拟机即JVM进行详解。
     icon:
       src: /img/svg/java.svg
-    link: '#'
+    link: '/courses/java/advance/03-JVM/01-初识JVM'
 ---

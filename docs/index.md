@@ -36,7 +36,7 @@ features:
     details: 本系列主要对 MySQL 与 Redis、MongoDB、ElasticSearch知识体系进行详解与总结
     icon:
       src: /img/svg/database.svg
-    link: /courses/mysql
+    link: /courses/数据库
     
   - title: Spring
     details: 本系列主要对 Spring Framework以及Spring Boot系列进行详解与知识体系梳理
