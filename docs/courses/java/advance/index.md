@@ -34,4 +34,10 @@ features:
     icon:
       src: /img/svg/java.svg
     link: '/courses/java/advance/03-JVM/01-初识JVM'
+
+  - title: Java 进阶 - JUC
+    details: 本系列主要对 jJUC 并发编程进行详解。
+    icon:
+      src: /img/svg/java.svg
+    link: '#'
 ---

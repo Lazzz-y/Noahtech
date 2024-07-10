@@ -33,6 +33,12 @@ features:
     icon:
       src: /img/svg/redis.svg
     link: 
+    
+  - title: Redis 进阶
+    details: 本系列主要对 Redis 深入了解
+    icon:
+      src: /img/svg/redis.svg
+    link: /courses/数据库/04-Redis进阶/01-Redis配置文件详解
       
   - title: MongoDB 基础
     details: 本系列主要对 MongoDB 基础知识进行详解与拓展。
