@@ -1,9 +1,8 @@
 ---
-Ltitle: Lock
+title: Lock
 author: Noah
 date: 2024/07/09 21:18
 categories: 
-
  - JUC
 tags:
   - JUC
